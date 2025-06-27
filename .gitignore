@@ -1,0 +1,37 @@
+# Ignore video files
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+
+# Ignore audio files
+*.wav
+*.mp3
+*.aac
+*.flac
+
+# Ignore image outputs
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tiff
+*.bmp
+
+# Ignore DaVinci Resolve cache/render files
+*.drp
+*.tmp
+*.braw
+Resolve Cache/
+
+# Ignore thumbnails and exports
+deliverables/
+exports/
+
+# Track markdown, scripts, and text
+!*.md
+!*.txt
+!*.docx
+!script-research/
+!project-templates/
