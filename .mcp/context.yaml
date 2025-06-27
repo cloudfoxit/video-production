@@ -80,6 +80,67 @@ prompts:
 context_blocks:
   growth_engine:
     description: Strategic onboarding and implementation videos for internal Cloudfox delivery and client stakeholders.
+    growth_engine_roadmap:
+      week_1:
+        phase: Technical Setup
+        objective: Shared User Access Model for Site Teams
+        key_focus: Role-specific experience
+        action_plan: Document sign in method, team structure, contact and deal owners, outlook plugin
+      week_2:
+        phase: Technical Setup
+        objective: Integration with Property Management Systems - StaySynced
+        key_focus: Concurrent handover
+        action_plan: Field groups, fields, pipelines and stages, deal tags, workflows
+      week_3:
+        phase: Technical Setup
+        objective: Communication Infrastructure Setup
+        key_focus: Unified messaging
+        action_plan: Setup domains, email sending domains, connection of apps
+      week_4:
+        phase: Sales Enablement
+        objective: Deal Progression Reporting
+        key_focus: Standardisation & insight
+        action_plan: Define ideal pipeline stages, automate task reminders, and build a deal velocity dashboard
+      week_5:
+        phase: CRM Setup
+        objective: Centralised Communication Hub
+        key_focus: Unified messaging
+        action_plan: Creation of templates, sequences, workflows and nurture automations
+      week_6:
+        phase: CRM Setup
+        objective: Continue with outbound comms and hubspot learning
+        key_focus: Adoption
+        action_plan: Continue outbound refinement and internal learning through HubSpot Academy
+      week_7:
+        phase: CRM Setup
+        objective: Customised CRM Interface for PBSA
+        key_focus: Tailored layouts
+        action_plan: Standardise contact/deal properties, conditional sections, and define layouts per role (e.g. Leasing, Ops)
+      week_8:
+        phase: Marketing Focus
+        objective: Automating the Viewing Process
+        key_focus: Lead capture, tasks, reporting
+        action_plan: Build form templates, set up automated replies, task queues, meetings and a template viewing report
+      week_9:
+        phase: Marketing Focus
+        objective: Full-Funnel Analytics & Performance Metrics
+        key_focus: Conversion & attribution
+        action_plan: Create dashboard templates for lead→booking funnel, source tracking, won/lost analysis
+      week_10:
+        phase: Marketing Focus
+        objective: Marketing Automation for High-Intent Leads
+        key_focus: Nurture and convert
+        action_plan: Build a workflow library for campaigns, FAQs, and seasonal lead follow-up sequences
+      week_11:
+        phase: CRM Setup
+        objective: Implementing a Returner/Rebooker Strategy
+        key_focus: Lifecycle automation
+        action_plan: Build workflow for contract end tracking, campaign structure, and retention reports, use Leads object and auto creation for follow up
+      week_12:
+        phase: Final Wrap-up
+        objective: Customer Success & Tenant Satisfaction
+        key_focus: Feedback loop
+        action_plan: Create a survey workflow using NPS, automated feedback triggers, and a sample dashboard
     structure:
       - Hook: Key problem or opportunity
       - Proof: Before/after or ROI
