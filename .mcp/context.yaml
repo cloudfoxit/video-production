@@ -1,0 +1,100 @@
+# File: .mcp/context.yaml
+# Defines context for Cloudfox video production across Growth Engine and End User Training tracks.
+
+project_name: Cloudfox Video Production
+description: >
+  Video content creation system for Cloudfox, including strategic Growth Engine onboarding 
+  and tactical End User Training videos. Content will be published across YouTube, LinkedIn, 
+  HubSpot Content Hub, and Canva assets.
+
+audience:
+  youtube_scripts:
+    - PBSA and Build-to-Rent operators
+    - PropTech professionals
+    - Founders and investors in property management
+  linkedin_posts:
+    - SaaS professionals in real estate
+    - Property management stakeholders
+    - Digital transformation leads
+  growth_engine:
+    - Founders and operators in PBSA/BTR
+    - Heads of Sales, Marketing, and Ops
+  end_user_training:
+    - Onsite property managers
+    - Front-line leasing and support staff
+    - CRM system admins and end users
+
+goals:
+  youtube_scripts:
+    - Drive awareness of Cloudfox service offerings
+    - Showcase implementation expertise and insights
+    - Share lessons and strategies for property tech adoption
+  linkedin_posts:
+    - Build credibility via narrative content
+    - Share strategic outcomes and real-world results
+    - Encourage engagement and connections
+  growth_engine:
+    - Explain system architecture and best practices
+    - Guide teams through CRM adoption and automation
+    - Support HubSpot rollout and value realization
+  end_user_training:
+    - Reduce time to proficiency for new users
+    - Provide clear, repeatable walkthroughs
+    - Improve platform usage and data quality
+
+platforms:
+  - YouTube
+  - LinkedIn
+  - HubSpot Content Hub
+  - Canva (for visual assets and slides)
+
+topics:
+  youtube_scripts:
+    - Property tech challenges and opportunities
+    - SaaS adoption case studies
+    - Lessons from client implementations
+    - Best practices for CRM and automation
+    - Getting the most out of HubSpot
+    - How to use back office systems effectively
+  linkedin_posts:
+    - Behind-the-scenes lessons
+    - Micro case studies
+    - Productivity and automation tips
+  growth_engine:
+    - CRM architecture and object setup
+    - Deal pipeline design and lead routing
+    - Communication and automation workflows
+    - Reporting dashboards and KPIs
+  end_user_training:
+    - How to create and edit contacts and deals
+    - Using tasks, notes, and activities
+    - Enrolling contacts in sequences
+    - Running and reading reports
+
+prompts:
+  youtube_script: prompts/youtube_script.md
+  linkedin_post: prompts/linkedin_post.md
+  training_script: prompts/training_script.md
+  growth_engine_script: prompts/growth_engine_script.md
+
+context_blocks:
+  growth_engine:
+    description: Strategic onboarding and implementation videos for internal Cloudfox delivery and client stakeholders.
+    structure:
+      - Hook: Key problem or opportunity
+      - Proof: Before/after or ROI
+      - System Walkthrough: Visual setup
+      - Lessons and pitfalls:
+          - Key insights from the implementation
+          - Common mistakes and how to avoid them
+      - CTA: Use or rollout
+
+  end_user_training:
+    description: Screen-share walkthroughs for end users, focused on task-based training.
+    structure:
+      - Goal: Task or skill covered
+      - Screen Steps: Annotated or narrated
+      - Common Errors: Highlighted and resolved
+      - Tip or shortcut:
+          - Quick wins or efficiency tips
+          - Best practices for the task
