@@ -3,8 +3,7 @@
 ## Context
 
 You're creating a Growth Engine onboarding video for Cloudfox. 
-The goal is to help clients understand and implement their HubSpot system effectively 
-as part of the Grand Slam Offer. These videos are aimed at founders, operations leads, and internal teams.
+The goal is to help clients understand and implement their HubSpot system effectively. These videos are aimed at founders, operations leads, and internal teams for configuration of the sytem.  The videos should be strategic, not technical, focusing on the "why" and "how" rather than the "what".
 
 ## Structure
 
