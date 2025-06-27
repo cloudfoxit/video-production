@@ -73,19 +73,24 @@ All content is initially created using:
 
 ---
 
-## 📁 Folder Structure (Optional)
+## 📁 Folder Structure
 ```
 video-projects/
-├── 01-growth-engine/
-│   ├── raw-footage/
-│   ├── screen-recordings/
-│   ├── audio/
-│   ├── slides/
-│   └── exports/
+├── _global-assets/                  # Master reusable files
+│   ├── lower-thirds/
+│   ├── overlays/
+│   ├── music/
+│   └── logos/
 ├── 02-youtube-business/
-│   ├── intros-outros/
-│   ├── reusable-assets/
-│   └── project-templates/
+│   ├── 2024-07-ep1-first-topic/
+│   │   ├── zv-e10/
+│   │   ├── b-roll/
+│   │   ├── stock-footage/
+│   │   ├── screen-recordings/
+│   │   ├── slides/
+│   │   ├── project-files/           # Resolve projects, synced bins
+│   │   ├── deliverables/
+│   │   └── reused-assets/           # Local copies if modified for this project
 ```
 
 ---
