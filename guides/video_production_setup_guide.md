@@ -89,3 +89,5 @@ Use markers for structure: intro, chapters, CTA.
 | Power | Apple USB-C charger to hub PD | Pass-through to MacBook |
 
 For folder setup and project workflow, see the [Start Here Guide](start_here.md). For live streaming, see the [OBS Live Streaming Guide](obs_live_streaming_setup_guide.md).
+
+see Gabriel VIP [Complete YouTube Recording Process](https://www.youtube.com/watch?v=8PjJHfJq_ws) for video version
