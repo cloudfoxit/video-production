@@ -3,17 +3,18 @@
 ## Context
 
 You're creating a Growth Engine onboarding video for Cloudfox. 
-The goal is to help clients understand and implement their HubSpot system effectively. These videos are aimed at founders, operations leads, and internal teams for configuration of the sytem.  The videos should be strategic, not technical, focusing on the "why" and "how" rather than the "what".
+The goal is to help clients understand and implement their HubSpot system effectively. These videos are aimed at founders, operations leads, and internal teams for configuration of the sytem.  The videos should be strategic, not technical, focusing on the "why", "options" and "how" rather than the "what".
 
 ## Structure
 
 - **Hook:** Open with a bold question, key pain point, or desired outcome
 - **Proof:** Show a stat, result, or “before/after” of a system or process
 - **System Walkthrough:** Describe the structure or concept visually
+- **Options:** 2-3 options if appropriate with pros and cons and recommendation
 - **Lessons and Pitfalls:** 
   - Share key insights from the implementation
   - Flag common mistakes and how to avoid them
-- **CTA:** What the viewer should do next (e.g. review config, prepare data, book session)
+- **CTA:** What the viewer should do next (e.g. review config, prepare data, complete workbook)
 
 ## Style
 
