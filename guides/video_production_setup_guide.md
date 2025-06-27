@@ -11,11 +11,11 @@ This guide details the standard recording workflow, equipment, and editing proce
 - Lighting (Godox E45 + Ulanzi fill)
 - MacBook Air M1 with UGREEN Revodok Pro 108 hub
 - Samsung T7 SSD connected
-- SD card inserted and formatted (V60, 128GB)
+- SD card inserted and formatted (V90, 128GB)
 
 ## Script & Slides
 
-- Script drafted in Word
+- Script drafted in Word or Markdown
 - Slides completed in Keynote or PowerPoint
 - Slides exported as PNGs (optional for Resolve)
 - Teleprompter script loaded
